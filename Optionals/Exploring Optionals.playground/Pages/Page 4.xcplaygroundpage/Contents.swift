@@ -15,7 +15,7 @@
  
  */
 // Type the code below this line...
-
+![strings-as-optionals](strings-as-optionals.png)
 
 /*:
  

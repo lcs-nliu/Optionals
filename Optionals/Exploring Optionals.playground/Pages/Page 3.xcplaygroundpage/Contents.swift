@@ -12,7 +12,7 @@
  What is the result?
  */
 // Type the code below this line...
-
+ ![what-happens](what-happens.png)
 /*:
  
  After you try this, change the code on line 16 to:

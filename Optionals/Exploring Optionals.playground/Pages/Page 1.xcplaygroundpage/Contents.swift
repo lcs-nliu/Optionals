@@ -16,7 +16,7 @@
  What is the result?
  */
 // Type the code below this line
-
+// ![declare-no-value](declare-no-value.png)
 
 /*:
  
@@ -39,7 +39,7 @@
  */
 // Type the second code example below...
 
-
+// ![declare-optional](declare-optional.png)
 /*:
  
  Run the playground again.
@@ -53,6 +53,6 @@
  How does the result shown from the second block of code differ from the result you got when running the first block of code?
  
  Write a response to this question in your black notebook.
- 
+  
  */
 //: [Next](@next)
