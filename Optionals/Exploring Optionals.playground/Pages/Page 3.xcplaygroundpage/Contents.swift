@@ -12,7 +12,13 @@
  What is the result?
  */
 // Type the code below this line...
- ![what-happens](what-happens.png)
+var x: Int?
+var y: Int? = 0
+if x == y {
+    print ("variables are equal")
+} else {
+    print ("variable NOT equal")
+}
 /*:
  
  After you try this, change the code on line 16 to:
