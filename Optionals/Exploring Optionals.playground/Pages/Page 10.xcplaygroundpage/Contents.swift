@@ -12,5 +12,7 @@
  */
 // Type the code below this line...
 
-
+var x: Int = 0
+var y: Int
+x * y
 //: [Next](@next)
